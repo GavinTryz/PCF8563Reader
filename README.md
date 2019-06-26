@@ -3,7 +3,7 @@ Arduino sketch built to read the date and time on a PCF8563 without changing any
 
 Code by Gavin Tryzbiak
 
-###Important:
+### Important:
 * The Serial Monitor MUST match "#define BAUD_RATE 115200" from line 33 in the dropdown menu of the Serial Monitor! By default it is 115200, but it can be set lower if your cable has a poor connection, or higher for quicker text output.
 
 ### Note:
